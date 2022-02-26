@@ -3,5 +3,5 @@
         echo "Номер возврата";
         return 7;
     }
-    echo $nums = printStringReturnNumber();
+    echo $my_num = printStringReturnNumber();
 ?>
