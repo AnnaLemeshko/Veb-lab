@@ -45,3 +45,4 @@
 
     echo $array4[sizeof($array4) - 1] . "\n";
     echo $array4[sizeof($array4) - 2] . "\n";
+?>
