@@ -1,8 +1,8 @@
 <?php
     $text = $_POST['textArea'];
-    if(!isset($text)){
+    if (!isset($text)) {
         return;
     }
-    echo "Количество слов - " . str_word_count($text) . "\n";
-    echo "Количество символов - " . strlen($text) . "\n";
+    echo "Количество слов: " . str_word_count($text) . "<br>";
+    echo "Количество символов: " . strlen($text) . "<br>";
 ?>
