@@ -1,0 +1,13 @@
+{
+  "name": "AnnaLemeshko/code",
+  "authors": [
+    {
+      "name": "AnnaLemeshko",
+      "email": "lemanna07@gmail.com"
+    }
+  ],
+  "require": {
+    "google/apiclient": "2.0",
+    "guzzlehttp/guzzle": "~5.3.1"
+  }
+}
